@@ -2,7 +2,7 @@
 
 This project provides exposure to:
 
-- An eposure towards the set-up, creating the frontend with react and design with tailwind as well as setting up the backend environment
+- An exposure towards the set-up, creating the frontend with react and design with tailwind as well as setting up the backend environment
 - MongoDB & Redis Integration, connecting the databse
 - Payment Setup (Stripe)
 - Usage of JWT with Refresh/Access Tokens
